@@ -1,0 +1,20 @@
+#experienceSection{
+    background-image: url("experience.jpg");
+    height: 200px;
+
+  /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.slide-center{
+    background-color: rgb(250,245,240,0.5);
+
+}
+
+#section1{
+    writing-mode: tb-rl;
+    /* padding-top: 3%;
+    padding-left: 7%; */
+}

@@ -1,0 +1,15 @@
+
+
+
+#cvBtn
+{
+    width: 100%;
+    background-color: transparent;
+    border-width: 0.3px;
+    font-size: large;
+    color: black;
+}
+
+#cvBtn:hover{
+    opacity: 70%;
+}
