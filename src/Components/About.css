@@ -3,13 +3,18 @@
 
 #cvBtn
 {
-    width: 100%;
+    width: fit-content;
     background-color: transparent;
     border-width: 0.3px;
     font-size: large;
     color: black;
 }
 
+
+button a:hover{
+        text-decoration: none;
+}
+
 #cvBtn:hover{
-    opacity: 70%;
+     opacity: 70%; 
 }

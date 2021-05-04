@@ -10,7 +10,7 @@ class MyNavbar extends Component {
   render() {
     return (
       <nav className="navbar navbar-expand-sm navbar-light  fixed-top" style={{ backgroundColor: "#e6f4ff" }}>
-        <a className="navbar-brand h1 m-3" href="#">Lior Savchenko V1.2</a>
+        <a className="navbar-brand h1 m-3" href="#">Lior Savchenko</a>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapseNavbar">
           <span className="navbar-toggler-icon"></span>
         </button>

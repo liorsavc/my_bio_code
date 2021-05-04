@@ -9,13 +9,13 @@ function Experience() {
             <div className="slide-center  shadow " >
                 <ul style={{ fontWeight: "bold" }}>
                     <li>
-                        <h2>FullStack Developer (2020 – current)</h2>
-                        <h4>Ganobiz</h4>
+                        <h2>FullStack Developer (11/2020 – current)</h2>
+                        <h4>Ganobiz LTD - Startup Company</h4>
                         <ul style={{ fontWeight: "normal" }}>
-                            <li>aaa</li>
-                            <li>bbb</li>
-                            <li>ccc</li>
-                            <li>ddd</li>
+                            <li>API endpoints and routes service using Express</li>
+                            <li>Develop real time monitoring micro service using NodeJS</li>
+                            <li>Works with Postgres and Mongo DBs</li>
+                            <li>Analyzing data with Google Analytics</li>
                         </ul>
                     </li>
                     <br />

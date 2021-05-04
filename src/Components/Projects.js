@@ -94,7 +94,7 @@ function Projects() {
           </div>
           <div id="collapseTwo" className="collapse" data-parent="#accordion">
             <div className="card-body">
-              <a className="gitLink" href="https://github.com/liorsavc/my_bio">click here to see this project on GITHUB</a>
+              <a className="gitLink" href="https://github.com/liorsavc/my_bio_code">click here to see this project on GITHUB</a>
               <p>As you can see :) <br />
                                 using JavaScript , HTML , JSX , React , CSS & BOOTSTRAP4<br />
                                 I'm doing my best to create clean and good user experience,<br />

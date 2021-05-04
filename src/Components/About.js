@@ -18,14 +18,9 @@ function About() {
                             Using BootStrap 4 !</p>
                         </div>
 
-
-
-
-
-
                     </div>
                 </div>
-                <div className="container col-sm-8 shadow-sm">
+                <div className="container col-sm-8 shadow-sm" style={{ marginTop: "50px" }}>
                     <p>
                         <b>Software & Information Systems Engineering student with 2 semesters until graduation.
                          Experienced Practical Electronics Engineer.<br />
@@ -34,8 +29,9 @@ function About() {
 </b>
                     </p>
                     <hr />
-                    <button id="cvBtn" className="mb-5 shadow" ><a href="https://drive.google.com/file/d/1Qy-Vo_tcdwm3zO4yWGvcAJWNVptC0PL1/view?usp=sharing">DOWNLOAD MY RESUME</a></button>
-
+                    <div style={{ textAlign: "center" }}>
+                        <button id="cvBtn" className="mb-5 shadow" ><a href="https://drive.google.com/file/d/1Qy-Vo_tcdwm3zO4yWGvcAJWNVptC0PL1/view?usp=sharing">DOWNLOAD MY RESUME</a></button>
+                    </div>
                 </div>
             </div>
 
