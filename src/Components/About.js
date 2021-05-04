@@ -30,7 +30,7 @@ function About() {
                     </p>
                     <hr />
                     <div style={{ textAlign: "center" }}>
-                        <button id="cvBtn" className="mb-5 shadow" ><a href="https://drive.google.com/file/d/1Qy-Vo_tcdwm3zO4yWGvcAJWNVptC0PL1/view?usp=sharing">DOWNLOAD MY RESUME</a></button>
+                        <button id="cvBtn" className="mb-5 shadow" ><a href="https://drive.google.com/file/d/17PqmSlsGEu3P_d8qnzxelRMXUTrQLEk-/view?usp=sharing">DOWNLOAD MY RESUME</a></button>
                     </div>
                 </div>
             </div>
