@@ -9,7 +9,7 @@ function Experience() {
             <div className="slide-center  shadow " >
                 <ul style={{ fontWeight: "bold" }}>
                     <li>
-                        <h2>FullStack Developer (11/2020 – current)</h2>
+                        <h2>BE Developer (11/2020 – current)</h2>
                         <h4>Ganobiz LTD - Startup Company</h4>
                         <ul style={{ fontWeight: "normal" }}>
                             <li>API endpoints and routes service using Express</li>
